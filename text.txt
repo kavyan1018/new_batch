@@ -1,0 +1,79 @@
+RIGHT NOW HTML 5
+
+<!DOCTYPE html>
+--> Document type html
+
+<html lang="en">
+--> in html we use English lang. 
+
+<head>
+
+    <meta charset="UTF-8">
+    Encoding
+    what is the full form of utf ? ==>  Unicode transforamation formate  
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+
+    <title>Document</title>
+
+        --> in title we Enter our web name 
+
+</head>
+<body>
+    
+</body>
+</html>
+
+
+what is web page ?
+--> 
+
+frontend tech | client side
+    --> HTML, CSS, JS.....
+
+backend tech  | server side
+    --> c,cpp,java,python
+
+
+web site -->multi collection of web page
+
+new file ==> .html Extansion
+
+heading tags 
+
+there  is total 6 heading tags 
+
+h1
+h2
+h3
+h4
+h5
+h6
+
+
+What is the difference between h1 to h6 ?
+--> there is size difference between h1 to h6
+
+
+bold ==> <b> and <strong>
+italic ==> <i> and <em>
+underline ==> <u> and inserted 
+delete ==> <del> and strikex
+high light ==> <mark> 
+
+
+in paragraph tag we write lorem100 short cut --> then we got a 100 words paragraph
+pre tag --> preformatted text
+
+
+how to insert images in webpage ?
+
+
+there is totol 2 ways to innsert images
+
+1st one is insert from google 
+--> 
+
+2nd one is insert from download
+
+br ==>Break the cont. line
