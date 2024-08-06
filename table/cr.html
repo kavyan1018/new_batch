@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- What is colspan and rowspan -->
+
+    <!-- colspan -> to merge the columns
+        rowspan -> to merge the rows
+    -->
+
+    <table border="3px" bordercolor="yellow" bgcolor="lightgreen">
+        <tr><th>No.</th>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Salary</th>
+        <tr>  
+            
+            <tr>
+                <td>1</td>
+                <td>Kavyan</td>
+                <td>Developer</td>
+                <td rowspan="2">50,000</td>
+            </tr>
+
+            <tr>
+                <td>2</td>
+                <td>shubham</td>
+                <td>developer</td>
+                <!-- <td>50,000</td> -->
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td colspan="2" align="center">Harshil</td>
+                <!-- <td>Developer</td> -->
+                <td>40,0000</td>
+            </tr>
+
+            <tr>
+                <td>4</td>
+                <td>vivak</td>
+                <td>developer</td>
+                <td>30,0000</td>
+            </tr>
+    </table>
+
+</body>
+</html>
